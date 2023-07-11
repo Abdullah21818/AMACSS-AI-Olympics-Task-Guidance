@@ -1,6 +1,8 @@
 # AMACSS-AI-Olympics-Task-Guidance
 
 Website that generates a list of steps with images for an inquired task
+
+Please read the wiki to get an idea of what to expect from this project!
 # Requirements:
 <ul>
   <li>Python 3.11</li>
