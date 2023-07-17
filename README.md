@@ -21,3 +21,14 @@ Please read the wiki to get an idea of what to expect from this project!
 </ul>
 
 Have fun!
+
+# Example:
+
+![My Image](1.png)
+
+![My Image](2.png)
+
+![My Image](3.png)
+
+
+
